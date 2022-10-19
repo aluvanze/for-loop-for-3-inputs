@@ -1,11 +1,3 @@
-IST 1025B: INTRODUCTION TO PROGRAMMING
-MID-SEMESTER EXAM
-Wednesday 19th October 2022, 17:30-19:30 (2 hours)
-
-Instructions	Total Marks: 30
-1.	Part I is to be answered on Blackboard.
-2.	Enter your answers to Questions Two and Three in the spaces indicated.
-3.	Paste screenshots of the programs and output where indicated.
 
 Part I		
 
