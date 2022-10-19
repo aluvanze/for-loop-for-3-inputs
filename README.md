@@ -1,9 +1,5 @@
 
-Part I		
 
-Question One		[10 Marks]
-
-This is a multiple-choice question and it is to be done on Blackboard.
 
 Part II
 
