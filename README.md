@@ -10,7 +10,7 @@ Correct all the errors in the program and then run it.	[5 Marks]
 
  
 
-PASTE YOUR SCREENSHOTS FOR THE PROGRAM AND OUTPUT HERE
+
 
  
 
@@ -42,7 +42,7 @@ PASTE YOUR SCREENSHOTS FOR THE PROGRAM AND OUTPUT HERE
 
 2.	Write a new version of the program you have written in part 1 so that if the average score is 8 or higher, the program prints out “Good work”. Otherwise, it prints, “Try harder next time”. Test the program with both high and low scores.	[4 Marks]
 
-PASTE YOUR SCREENSHOTS FOR THE PROGRAM AND OUTPUT HERE
+
 
 
 
